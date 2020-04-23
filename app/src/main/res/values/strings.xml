@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GoldenTimeAlarmEX</string>
+    <string name="stop_golden_time_check">골든타임 체크 종료</string>
+    <string name="start_golden_time_start">골든타임 체크 시작</string>
+    <string name="crawl_site">http://www.kyobobook.co.kr/prom/2019/general/190529_nonstop.jsp</string>
+    <string name="main_app_name">골든 타임 알람</string>
+    <string name="start_btn_name">시작하기</string>
+    <string name="end_btn_name">끝내기</string>
+</resources>
